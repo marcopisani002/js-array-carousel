@@ -1,0 +1,20 @@
+body{
+    background-color: darkslategrey;
+}
+
+
+
+  .dot.active {
+    opacity: 1;
+  }
+ 
+  .img-dim{
+    width: 50%;
+    border: 2px solid aqua;
+  }
+
+
+
+.btn-hvr:hover{
+    color: white;
+}
